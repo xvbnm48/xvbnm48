@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 -->
 
 I am a young person who aspires to become a programmer. I have been self-taught learning programming for 3 years
--⚡ Fun fact: I like Japanese culture, I'm also an otaku who really likes anime
+
+- ⚡ Fun fact: I like Japanese culture, I'm also an otaku who really likes anime
