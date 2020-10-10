@@ -21,6 +21,7 @@ I am a young person who aspires to become a programmer. I have been self-taught 
 
 - 🎓 I studied at the State polytechnic of Sriwijaya
 - ⚡ Fun fact: I like Japanese culture, I'm also an otaku who really likes anime
+- i love Sakura Miyawaki
 - 💻 i am focused on web development
 - 📺 I have learned HTML, CSS, C ++, python, javascript,dan framework saya telah belajar yaitu laravel,Sass,Vanilla Javascript ,Bootstrap
 
