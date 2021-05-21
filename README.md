@@ -1,6 +1,7 @@
 ### Hi there , i'm Fariz 👋
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2ed7ad1c-d86e-4496-8045-e0f78b463d4d/d65e9105-8301-4aef-b5e0-0853740810dd.png" /></a>
+
+
 
 <br> <img src="https://raw.githubusercontent.com/xvbnm48/xvbnm48/main/wp3783108-sakura-miyawaki-wallpapers.jpg" alt="miyawaki" height="500px" width="1000px"></br>
 
@@ -18,6 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2ed7ad1c-d86e-4496-8045-e0f78b463d4d/6ad22fb0-de4d-4486-9fcd-bb87b862d9f3.png" /></a>
 
 I am a young person who aspires to become a programmer. I have been self-taught learning programming for 3 years
 
