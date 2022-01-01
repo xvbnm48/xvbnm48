@@ -14,7 +14,7 @@ I'm Fariz a BackEnd Web Developer and I am a young person who aspires to become 
 - ⚡ Fun fact: I like Japanese culture, I'm also an otaku who really likes anime
 - :heart: i love Sakura Miyawaki and Sakura Endo!
 - 💻 i am focused on web development
-- 💻 I have learned HTML, CSS, C ++, python, javascript,and framework that I've studied is laravel,Sass,Vanilla Javascript ,Bootstrap
+- 💻 I have learned HTML, CSS, C ++, python, javascript, Golang,and framework that I've studied is laravel,Sass,Vanilla Javascript ,Bootstrap, Gin-Gonic
 
 
 #### Top Technologies
