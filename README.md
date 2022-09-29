@@ -10,7 +10,7 @@ I'm Fariz a BackEnd Engineer and I am a young person who aspires to become a pro
 
 - 📫 How to reach me: muhamadfarizwisnupranada@gmail.com.
 - 😄 Pronouns: Fariz.
--  🎓 I - studied at the State polytechnic of Sriwijaya
+-  🎓 I - graduated from sriwijaya state polytechnic majoring in computer engineering
 - ⚡ Fun fact: I like Japanese culture, I'm also an otaku who really likes anime
 - :heart: i love Sakura Miyawaki and Sakura Endo!
 - 💻 i am focused on web development
