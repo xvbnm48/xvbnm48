@@ -31,7 +31,7 @@ I'm Fariz a BackEnd Engineer and I am a young person who aspires to become a pro
 [![Twitter Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@xvbnm48) 
 
 
-### Support me!
+### Please Support me!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X7HCEYC)
 
 
