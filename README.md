@@ -77,5 +77,7 @@ Hard work will not betray the results!
 ## Most Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvbnm48&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Stats Card
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xvbnm48)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
